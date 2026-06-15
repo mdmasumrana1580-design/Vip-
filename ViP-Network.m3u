@@ -300,7 +300,7 @@ http://লিংক_এখানে_বসবে
 http://লিংক_এখানে_বসবে
 
 ============== SPORTS (20) ==============
-#EXTINF:-1 tvg-name="T Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports",T Sports HD
+#EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.supaimg.com/d5275408-a908-4844-85f5-bec2e62a6094/51808c93-6b74-4ea7-a7ae-58ab3749661d.png" group-title="Sports",T Sports HD
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.supaimg.com/d5275408-a908-4844-85f5-bec2e62a6094/51808c93-6b74-4ea7-a7ae-58ab3749661d.png" group-title="Sports",Star Sports 1
@@ -330,7 +330,7 @@ http://লিংক_এখানে_বসবে
 #EXTINF:-1 tvg-name="Willow TV" tvg-logo="https://i.supaimg.com/d5275408-a908-4844-85f5-bec2e62a6094/51808c93-6b74-4ea7-a7ae-58ab3749661d.png" group-title="Sports",Willow TV
 http://লিংক_এখানে_বসবে
 
-#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg" group-title="Sports",PTV Sports
+#EXTINF:-1 tvg-name="PTV Sports" tvg-logo="https://i.supaimg.com/d5275408-a908-4844-85f5-bec2e62a6094/51808c93-6b74-4ea7-a7ae-58ab3749661d.png" group-title="Sports",PTV Sports
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sports" tvg-logo="https://i.supaimg.com/d5275408-a908-4844-85f5-bec2e62a6094/51808c93-6b74-4ea7-a7ae-58ab3749661d.png" group-title="Sports",Sky Sports
