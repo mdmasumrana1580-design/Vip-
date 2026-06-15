@@ -36,6 +36,12 @@ http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
 
 ============== BANGLADESHI (34) ==============
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
+
+#EXTINF:-1 tvg-name="Somoy-Tv" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Somoy-Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
 #EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
@@ -51,7 +57,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-name="DBC News" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",SA TV
+#EXTINF:-1 tvg-name="SA-Tv" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",SA -Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 #EXTINF:-1 tvg-name="News24" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",News24
@@ -73,10 +79,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Green TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Green TV
-http://লিংক_এখানে_বসবে
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Me TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Me TV
-http://লিংক_এখানে_বসবে
+
 
 #EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
@@ -85,58 +91,58 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",SRK TV
-http://লিংক_এখানে_বসবে
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Boishakhi TV
-http://লিংক_এখানে_বসবে
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Nagorik TV
-http://লিংক_এখানে_বসবে
+
 
 #EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Channel 9
-http://লিংক_এখানে_বসবে
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Movie Bangla
-http://লিংক_এখানে_বসবে
+
 
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",ATN Bangla
-http://লিংক_এখানে_বসবে
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1780495063&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7b4d0971d739ccde6387c4f9e4362f2b
 
 #EXTINF:-1 tvg-name="R TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",R TV
-http://লিংক_এখানে_বসবে
+https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1780495063&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aadfa385bde4d9d21f4839051cfc1f11
 
 #EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Ekushey TV
-http://লিংক_এখানে_বসবে
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Ekhon TV
-http://লিংক_এখানে_বসবে
+
 
 #EXTINF:-1 tvg-name="Nexus Television" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Nexus Television
-http://লিংক_এখানে_বসবে
+https://bozztv.com/rongo/rongo-NEXUSTVENC1/index.m3u8
 
 #EXTINF:-1 tvg-name="Global TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Global TV
-http://লিংক_এখানে_বসবে
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1780495064&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8933728094c02aaddadd763d83de645b
 
 #EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Asian TV
-http://লিংক_এখানে_বসবে
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Ananda TV
-http://লিংক_এখানে_বসবে
+https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1780495063&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=36d173dd85c7e09b4280b358647c71dd
 
 #EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Mohona TV
-http://লিংক_এখানে_বসবে
+https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1780495064&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b2072f3586bbbab921cdd88f05c88cda
 
 #EXTINF:-1 tvg-name="My TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",My TV
-http://লিংক_এখানে_বসবে
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI
 
 #EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Bijoy TV
-http://লিংক_এখানে_বসবে
+https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1780495064&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=efe1c4a3e0d88b468cd6c0a8416e2495
 
 #EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Bangla TV
-http://লিংক_এখানে_বসবে
+http://116.204.149.16/banglatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Gazi TV
-http://লিংক_এখানে_বসবে
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
 
 ============== INDIAN BANGLA (13) ==============
