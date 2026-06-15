@@ -1,34 +1,34 @@
 #EXTM3U
 
 ============== FIFA WORLD CUP (10) ==============
-#EXTINF:-1 tvg-name="FIFA Channel 01" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",T Sports 01
+#EXTINF:-1 tvg-name="FIFA Channel 01" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",T Sports 
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="FIFA Channel 02" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Somoy-Tv 02
+#EXTINF:-1 tvg-name="FIFA Channel 02" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Somoy-Tv 
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FIFA Channel 03" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup"D Sports, 03
+#EXTINF:-1 tvg-name="FIFA Channel 03" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
-#EXTINF:-1 tvg-name="FIFA Channel 04" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup"Tv Azteca, 04
+#EXTINF:-1 tvg-name="FIFA Channel 04" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Tv Azteca
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
-#EXTINF:-1 tvg-name="FIFA Channel 05" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup"TYC Sports, 05
+#EXTINF:-1 tvg-name="FIFA Channel 05" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",TYC Sports
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
-#EXTINF:-1 tvg-name="FIFA Channel 06" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup"Dazn Direct, 06
+#EXTINF:-1 tvg-name="FIFA Channel 06" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Dazn Direct
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1 tvg-name="FIFA Channel 07" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Win Sports 07
+#EXTINF:-1 tvg-name="FIFA Channel 07" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Win Sports 
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
-#EXTINF:-1 tvg-name="FIFA Channel 08" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup"Bein Sports [1], 08
+#EXTINF:-1 tvg-name="FIFA Channel 08" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup"Bein Sports ১
 https://no-red.pages.dev/liveop2.m3u8
 
-#EXTINF:-1 tvg-name="FIFA Channel 09" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Bein Sports [2] 09
+#EXTINF:-1 tvg-name="FIFA Channel 09" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Bein Sports ২
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 tvg-name="FIFA Channel 10" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Bein Sports [5] 10
+#EXTINF:-1 tvg-name="FIFA Channel 10" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Bein Sports ৫
 http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
 
