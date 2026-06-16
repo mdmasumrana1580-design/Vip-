@@ -1,10 +1,5 @@
 #EXTM3U
 
-============== Developer ==============
-
-
-#EXTINF:-1 tvg-name="Masum_Rana" tvg-logo="https://i.postimg.cc/qvZ25Nh5/1708839665186.jpg" group-title="Developer",𝐌𝐚𝐬𝐮𝐦_𝐑𝐚𝐧𝐚- 𝟎𝟏𝟑𝟏𝟓𝟖𝟎𝟖𝟐𝟕𝟑
-
 
 
 
@@ -19,6 +14,8 @@ https://i.postimg.cc/sxNgSjPM/1000015470-removebg-preview.png
 #EXTINF:-1 tvg-name="Manjurul_Islam" tvg-logo="https://i.postimg.cc/FzMQN7gT/1000015468-removebg-preview.png" group-title="Help Line",𝐌𝐚𝐧𝐣𝐮𝐫𝐮𝐥_𝐈𝐬𝐥𝐚𝐦- 𝟎𝟏𝟕𝟕𝟗𝟕𝟔𝟒𝟓𝟗𝟗
 https://i.postimg.cc/FzMQN7gT/1000015468-removebg-preview.png
 
+
+#EXTINF:-1 tvg-name="Masum_Rana" tvg-logo="https://i.postimg.cc/qvZ25Nh5/1708839665186.jpg" group-title="Help Line",𝐌𝐚𝐬𝐮𝐦_𝐑𝐚𝐧𝐚- 𝟎𝟏𝟑𝟏𝟓𝟖𝟎𝟖𝟐𝟕𝟑
 
 
 #EXTINF:-1 tvg-name="কিভাবে প্যাকেজ কিনবেন?" tvg-logo="https://i.postimg.cc/3JkHwy92/1000015478-removebg-preview.png" group-title="Help Line",কিভাবে প্যাকেজ কিনবেন?
@@ -103,8 +100,7 @@ http://1495678.03.dogy.lol/live/farhat-3379/67897-913379/744526.ts?token=ShJcU0B
 
 
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
-
+http://premiumtvs.space:80/live/jen12345/Jen54321/3818.ts
 
 
 #EXTINF:-1 tvg-name="Somoy-Tv" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Somoy-Tv
@@ -229,12 +225,12 @@ https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Indian Bangla",Star Jalsha HD
-http://1716770.hosp.buzz/live/1Aoen7elp5/IgMJ60tmAa/198.ts?token=ShJcU0BbQQNHWgwIBVINXAsFAgQHDVICAVBaAFABVQtXAQMDCgYHDFQbGBpEF0dcWF1vWQIXXlAIWk4VEBdWQG5ZUBAJEVIOVA8DDwdBGRtNWV1VRA9VVglTVwFWVgUBHRJEW1cRWRtXDQEIBloFGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBgAJABIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVVAw0MEk0=
+http://premiumtvs.space:80/live/jen12345/Jen54321/198.ts
 
 
 
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Indian Bangla",Zee Bangla HD
-http://লিংক_এখানে_বসবে
+http://premiumtvs.space:80/live/jen12345/Jen54321/23305.ts
 
 
 
@@ -244,35 +240,35 @@ http://1716770.mangoq.us/live/1Aoen7elp5/IgMJ60tmAa/183.ts?token=ShJcU0BbQQNHWAc
 
 
 #EXTINF:-1 tvg-name="Enterr10 Bangla" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Indian Bangla",Enterr10 Bangla
-
+http://premiumtvs.space:80/live/jen12345/Jen54321/3801.ts
 
 
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Indian Bangla",Sony Aath
-http://1716770.mangoq.us/live/1Aoen7elp5/IgMJ60tmAa/4083.ts?token=ShJcU0BbQQNHXwRZAQcMWlgBUlNTU1ZZUAdTBVxcUgtSVgdQUAFbC1IbGBpEF0dcWF1vWQIXXlUBWlEbRxFAV0NvXVYRCUEIUggCDwBTFxUbRFldAxdeUAZaUwJTVwIEARwWQlpXQQNHDQQJDlQFGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBAoPCRIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVQAAkIBQYDREg=
+http://premiumtvs.space:80/live/jen12345/Jen54321/4083.ts
 
 
 
 #EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Indian Bangla",Sun Bangla
-
+http://premiumtvs.space:80/live/jen12345/Jen54321/3753.ts
 
 
 #EXTINF:-1 tvg-name="Akash Bangla" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Indian Bangla",Akash Bangla
-http://103.112.62.88/auth/-UPnIXXkUCwLXJUu6jahkXmTtxfOKjCUgL52Nvu4W76U702LT9_IgtDQ6p-5bzXGyGpeyELmCeQj0J3N8A60uaKyu-GjtxpDyu6su5CUAshpmxig1a61EsyXGyx8JFcgrTtJgLZ8h10j6M-4yIL_9uVdd2jaPxNjiKxMmmFowJp-6MrVbttk25Iy21P6Zvhxe_J-joD6QiUGcbjD4neEtiDYpvCd4QEq90-Hen1WK-f_m75HurxcMw9pTG7QoXmemk0F68Vi4Gstdslvs9M1vg4ou8jwiNexDXXec7z9RiwYGjolZnhGHgL2Jn--4JhtDIgY9zMIYtrt6mrdlX4kqvdZ4XIJXMQNKKcJeIG7_c_8DxZbK1kvI-_es_-tH6imBc4zx5ifYfzlQ_S94-aJ1FyT_wX6qEsTYlCLezpVBxte8C_l9mfVwuch-fvKQZcCjicOEQqzJdVCC6VuG5wEH-3iLUimxOfQy-nyZz53YunWeiqQltDPHyvbk7e2eMqZcTd-w6S8kGKTvAQgFgjJbyzyrtbUl1RXuwb2j2M90iK5gE_CWf6WF9rpHTZIoP3IySlRS_CilkQxbcMevEWjP54qX38V2fWuDGLS28CO8_KiM9ri1o-WY1_ktZwVM-P4cthQ0wCKF3-ioTBwzEqJOAjRagM7HSEMxL3B3GJdhlI
+http://premiumtvs.space:80/live/jen12345/Jen54321/396.ts
 
 
 
 #EXTINF:-1 tvg-name="Jalsha Movies HD" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Indian Bangla",Jalsha Movies HD
-http://1716770.hartyk.us/live/1Aoen7elp5/IgMJ60tmAa/425.ts?token=ShJcU0BbQQNHXFBeB1EMWgwCBARVUFdYUANUD1VVVlYIBlFTCwFRWlUbGBpEF0dcWF1vWQIXXlUDV04VEBdWQG5ZUBAJEVIOVA8DDwdBGRtNWV1VRA9VVglTVwFWVAsHHRJEW1cRWRtWCwYJAVAEGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw4OCRIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVUDQoOEk0=
+http://premiumtvs.space:80/live/jen12345/Jen54321/425.ts
 
 
 
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Indian Bangla",Zee Bangla Cinema
-http://1716770.mangoq.us/live/1Aoen7elp5/IgMJ60tmAa/410.ts?token=ShJcU0BbQQNHWw0PD1QDCF0GUlEHDQcEAFpbAFEFAFYCUQAGC1dUDAAbGBpEF0dcWF1vWQIXXlUAUk4VEBdWQG5ZUBAJEVIOVA8DDwdBGRtNWV1VRA9VVglTVwFWVAEGHRJEW1cRWRtWDgUBBlMXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSDQ4bHBJTCUAKFUMbQA1HMWAQHRJRSkdWDUoMVloaDUFBShscElkVahYEQhYQUgQJVkATChYCER9BVARBa1tYDVtcWkRZXwhGRlsTU0AbRwlcXFhEW0BsQwpdRwMWCwJTBA0KBhJN
+http://premiumtvs.space:80/live/jen12345/Jen54321/49615.ts
 
 
 
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Indian Bangla",Colors Bangla Cinema
-http://1716770.racet.us/live/1Aoen7elp5/IgMJ60tmAa/271038.ts?token=ShJcU0BbQQNHXwAIBVBQDwlUU1ReUQEHAQRRBlVXC1QEBAQECwFWWFUbGBpEF0dcWF1vWQIXXlMGU1IEXUgRR0JVRm1aV0EDRwgDCQFUAgkbHBJED1gBQwtTVQ9UUQUACAgMHhFDCl1HAxYJAFUHAQkSHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCF9FWF4fEQFQEUtVTFJBDxsLBwECRBlGAl4XDEMXHREIE2VnEB8RBkERXFpLXgxbGwMSRENEGUYIQj0QUhYQQVdQXVFAEQlBCUcVFlVWG2paVl5eVQVBDQ5fEUANR1URHhNdW1xaRwxLOkldXBVZFwgJAwYDREg=
+http://premiumtvs.space:80/live/jen12345/Jen54321/271038.ts
 
 
 
@@ -287,7 +283,7 @@ http://103.175.73.12:8080/live/378/378_0.m3u8
 
 
 #EXTINF:-1 tvg-name="Ruposhi Bangla" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Indian Bangla",Ruposhi Bangla
-http://103.175.73.12:8080/live/664/664_0.m3u8
+http://premiumtvs.space:80/live/jen12345/Jen54321/409.ts
 
 
 
