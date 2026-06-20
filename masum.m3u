@@ -10,7 +10,6 @@
 
 
 #EXTINF:-1 tvg-name="Masum_Rana" tvg-logo="https://i.postimg.cc/qvZ25Nh5/1708839665186.jpg" group-title="Help Line",𝐌𝐚𝐬𝐮𝐦_𝐑𝐚𝐧𝐚- 𝟎𝟏𝟑𝟏𝟓𝟖𝟎𝟖𝟐𝟕𝟑
-
 https://i.postimg.cc/qvZ25Nh5/1708839665186.jpg
 
 
@@ -33,8 +32,8 @@ https://sweetcandy-bvs.pages.dev/channel3.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Toffe" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="FiFa World Cup",Bein Sports ৪
-http://1495678.03.dogy.lol/live/farhat-3379/67897-913379/744526.ts?token=ShJcU0BbQQNHCw0NA1cCXQhVCFVTUwZWBFsAAV0FVwFSVgMCUlVTAQQbGBpEF0dcWF1vWQIXXlYFVlcFU0gRR0JVRm1aV0EDRwgAAQJVAgEbHBJED1gBQwtTVQ9UUQUDBQYDHhFDCl1HAxYLA1cEAAsDEhxEUBwVVBAMVgk7V1dHWVdXEQkNTAlVGBpYDWpdXF1RXgIXXkMBQE4VDBdDEAteQV5fH0FbDE1GWUMGFwMbAwADXhdIQ1INF1kRFkoQCxJhYREfQVwdTVFWRApaVxsKEkQVF0hDWBE9RQAXR0BUUVlXQRFZG1UbGBpaAk1mWl9eXgNWEAheDBEVX0YCEB0SWV1dWhdWF2ZEUVNBDxsLCQcGXwFVQ0w=
+#EXTINF:-1 tvg-name="FiFa" tvg-logo="https://i.postimg.cc/dthy6CdW/1000016010-removebg-preview.png" group-title="FiFa World Cup",FiFa 2026 HD
+http://198.195.239.50:8095/tsports/index.m3u8
 
 
 
@@ -43,16 +42,13 @@ http://1495678.03.dogy.lol/live/farhat-3379/67897-913379/744526.ts?token=ShJcU0B
 
 
 
-#EXTINF:-1 tvg-name="Sangsad Tv" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Sangsad Tv
-http://premiumtvs.space:80/live/jen12345/Jen54321/3818.ts
 
-
-#EXTINF:-1 tvg-name="Somoy Tv" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Somoy-Tv
+#EXTINF:-1 tvg-name="Somoy Tv" tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png"group-title="Bangladeshi",Somoy-Tv
 http://premiumtvs.space:80/live/jen12345/Jen54321/422.ts
 
 
 
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Jamuna TV
+#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="Bangladeshi",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 
