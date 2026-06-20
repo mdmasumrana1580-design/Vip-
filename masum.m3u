@@ -68,22 +68,22 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="DBC News"",DBC News
+#EXTINF:-1 tvg-name="DBC NEWS" tvg-logo="" group-title="Bangladeshi",DBC NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="SA-Tv" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",SA -Tv
+#EXTINF:-1 tvg-name="SA-Tv" tvg-logo="" group-title="Bangladeshi",SA -Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="News24" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",News24
+#EXTINF:-1 tvg-name="News24" tvg-logo="" group-title="Bangladeshi",News24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",ATN News
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/NCLx35oBEef-9-uVh-Dg/posters/af9773c7-7971-41a2-9b78-121fcb240c48.png" group-title="Bangladeshi",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 
