@@ -56,7 +56,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="" group-title="Bangladeshi",Channel 24
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png" group-title="Bangladeshi",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 
@@ -71,17 +71,17 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="DBC NEWS" tvg-logo="" group-title="Bangladeshi",DBC NEWS
+#EXTINF:-1 tvg-name="DBC NEWS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="Bangladeshi",DBC NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="SA-Tv" tvg-logo="" group-title="Bangladeshi",SA -Tv
+#EXTINF:-1 tvg-name="SATv" tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="Bangladeshi",SATv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="News24" tvg-logo="" group-title="Bangladeshi",News24
+#EXTINF:-1 tvg-name="News24" tvg-logo="https://i.imgur.com/fkTHh75.png" group-title="Bangladeshi",News24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 
@@ -91,47 +91,43 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="Bangladeshi",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Channel i" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Channel i
+#EXTINF:-1 tvg-name="Channel i" tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="Bangladeshi",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Banglavision" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Banglavision
+#EXTINF:-1 tvg-name="Banglavision" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="Bangladeshi",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Star News" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Star News
+#EXTINF:-1 tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="Bangladeshi",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Green TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Deepto TV
+#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="Bangladeshi",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Maasranga TV
+#EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png" group-title="Bangladeshi",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",SRK TV
+#EXTINF:-1 tvg-name="SRK TV"https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangladeshi",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://i.postimg.cc/dQBdqMdJ/1000015332-removebg-preview.png" group-title="Bangladeshi",Channel 9
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="" group-title="Bangladeshi",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 
